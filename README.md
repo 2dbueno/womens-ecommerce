@@ -84,4 +84,4 @@ This project is a comprehensive e-commerce platform designed for women, develope
 Contributions are welcome! Feel free to open issues or pull requests for improvements and new features.
 
 ### 📄 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [MIT](LICENSE) file for more details.
