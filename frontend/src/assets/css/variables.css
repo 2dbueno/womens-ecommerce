@@ -1,0 +1,20 @@
+:root {
+    /* Paleta original */
+    --color-primary-100: #590D22;
+    --color-primary-200: #800F2F;
+    --color-primary-300: #A4133C;
+    --color-primary-400: #C9184A;
+    --color-primary-500: #FF4D6D;
+    --color-primary-600: #FF758F;
+    --color-primary-700: #FF8FA3;
+    --color-primary-800: #FFB3C1;
+    --color-primary-900: #FFCCD5;
+    --color-primary-1000: #FFF0F3;
+  
+    /* Verde de confirmação */
+    --color-confirm: #2E7D32;
+    --color-confirm-hover: #1B5E20;
+    --color-confirm-active: #004D40;
+    --color-confirm-bg: #C8E6C9;
+  }
+  
